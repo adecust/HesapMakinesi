@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvsec" type="id" />
+    <item name="tvmain" type="id" />
+    <item name="bac" type="id" />
+    <item name="bc" type="id" />
+    <item name="bb1" type="id" />
+    <item name="bb2" type="id" />
+    <item name="bsin" type="id" />
+    <item name="bcos" type="id" />
+    <item name="btan" type="id" />
+    <item name="blog" type="id" />
+    <item name="bln" type="id" />
+    <item name="bfact" type="id" />
+    <item name="bsquare" type="id" />
+    <item name="bsqrt" type="id" />
+    <item name="binv" type="id" />
+    <item name="bdiv" type="id" />
+    <item name="b7" type="id" />
+    <item name="b8" type="id" />
+    <item name="b9" type="id" />
+    <item name="bmul" type="id" />
+    <item name="b4" type="id" />
+    <item name="b5" type="id" />
+    <item name="b6" type="id" />
+</resources>
